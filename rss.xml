@@ -4,8 +4,14 @@
         <description><![CDATA[Go Paperless]]></description>
         <link>https://thegrid.ai/go-paperless/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 26 Oct 2015 20:47:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Oct 2015 18:09:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/go-paperless/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://thegrid.ai/go-paperless/1c9a254d-6633-4d21-b0cb-2f8d8aa551b4/index.html</link>
+            <guid isPermaLink="false">1c9a254d-6633-4d21-b0cb-2f8d8aa551b4</guid>
+            <pubDate>Tue, 27 Oct 2015 18:08:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Accueil]]></title>
             <description><![CDATA[<article><h1>Accueil</h1><p>- Bienvenue sur Go PaperLess.be</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/894fc5bb-aad1-44f4-b786-b4b4d24eb6da.jpg"></article>]]></description>
